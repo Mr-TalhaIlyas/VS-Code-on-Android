@@ -27,6 +27,10 @@ pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubuser
 ```
 5. Start Ubnut by typing `./start-ubuntu.sh`
 
+  
+### check video for reference.
+
 ### References
 
 https://www.codewithharry.com/blogpost/install-vs-code-in-android/
+
