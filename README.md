@@ -27,6 +27,13 @@ pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubuser
 ```
 5. Start Ubnut by typing `./start-ubuntu.sh`
 
+
+
+```
+ssh -L 8081:localhost:8080 user01@203.254.139.222
+
+8080 on server will run at 8081 on local later****
+```
   
 ### check video for reference.
 
